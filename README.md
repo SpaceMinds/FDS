@@ -27,5 +27,5 @@ Files included in this deliverables’ baseline:
 </lu>
 <br/>
 These models and Python codes has been developed by Yan Bello, as part of the Master in Artificial Intelligence (UNIR).
-<br/>
+<br/><br/>
 For the code developed we used the SisFall dataset: A Fall and Movement Dataset. Created by: A. Sucerquia, J.D. López, J.F. Vargas-Bonilla SISTEMIC, Faculty of Engineering, Universidad de Antiquia UDEA. Detailed information about this dataset can be found in this website: http://sistemic.udea.edu.co/en/investigacion/proyectos/english-falls/. Reference paper: Sucerquia A, López JD, Vargas-Bonilla JF. SisFall: A Fall and Movement Dataset. Sensors (Basel). 2017;17(1):198. Published 2017 Jan 20. doi:10.3390/s17010198
