@@ -1,5 +1,6 @@
 FDS
-README: Description of the contents of the repository. Author: Yan Bello<br/><br/>
+README: Description of the contents of the repository. Author: Yan Bello<br/>
+You can read a description of this project in the following post: <br/>http://www.spaceminds.com/wp/biobot-a-fall-detection-system-fds-using-artificial-intelligence/<br/><br/>
 <b>BioBot - Fall Detection System (FDS) Repository:</b><br/>
 This repository https://github.com/SpaceMinds/FDS has been setup to publish/ share the code files developed as part of the project of the development and exploration/experimentation with a Fall Detection System (FDS). 
 <lu>
